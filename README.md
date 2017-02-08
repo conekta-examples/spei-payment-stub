@@ -1,5 +1,5 @@
-# OXXOPay Payment Stub
+# SPEI Payment Stub
 
-This is an example of this OXXOPay payment stub:
+This is an example of a SPIE payment stub:
 
-![OPPS](https://github.com/conekta-examples/oxxopay-payment-stub/blob/master/readme-files/opps_demo.png)
+![SPS](https://github.com/conekta-examples/spei-payment-stub/blob/master/readme-files/sps_demo.png)
